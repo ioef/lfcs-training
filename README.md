@@ -1,4 +1,4 @@
-# lfcs-training
+# LFCS-training
 This repository attempts to cover the official LFCS Domains and Competencies V3.18
 
 
