@@ -2,7 +2,7 @@
 This repository attempts to cover the official LFCS Domains and Competencies V3.18
 
 
-Essential Commands – 25%
+##Essential Commands – 25%
 
 Log into local & remote graphical and text mode consoles
 Search for files
@@ -16,7 +16,8 @@ Create and manage hard and soft links
 List, set, and change standard file permissions
 Read, and use system documentation
 Manage access to the root account
-Operation of Running Systems – 20%
+
+##Operation of Running Systems – 20%
 
 Boot, reboot, and shut down a system safely
 Boot or change system into different operating modes
@@ -34,7 +35,8 @@ Manage the startup process and services (In Services Configuration)
 List and identify SELinux/AppArmor file and process contexts
 Manage Software
 Identify the component of a Linux distribution that a file belongs to
-User and Group Management – 10%
+
+##User and Group Management – 10%
 
 Create, delete, and modify local user accounts
 Create, delete, and modify local groups and group memberships
@@ -43,7 +45,8 @@ Manage template user environment
 Configure user resource limits
 Manage user privileges
 Configure PAM
-Networking – 12%
+
+##Networking – 12%
 
 Configure networking and hostname resolution statically or dynamically
 Configure network services to start automatically at boot
@@ -51,7 +54,8 @@ Implement packet filtering
 Start, stop, and check the status of network services
 Statically route IP traffic
 Synchronize time using other network peers
-Service Configuration – 20%
+
+##Service Configuration – 20%
 
 Configure a caching DNS server
 Maintain a DNS zone
