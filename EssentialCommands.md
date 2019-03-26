@@ -44,11 +44,20 @@ Find all files which are files
 find / -type f
 ```
 
+Find all files with access time the last 15 minutes
+```
+find / -amin 15 2>/dev/null
+```
+
+Find all files with access time the last 2 days
+```
+find / -atime 2 2>/dev/null
+```
+
 Find all files that are of extension .doc and add them to a tarball
 ```
 find / -name "*.doc" -exec tar -rvf out.tar {} + 2>/dev/null
 ```
-
 
 Evaluate and compare the basic file system features and options
 Compare and manipulate file content
